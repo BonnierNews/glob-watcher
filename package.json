@@ -28,7 +28,7 @@
     "object.defaults": "^1.1.0"
   },
   "devDependencies": {
-    "eslint": "^8.17.0",
+    "eslint": "^8.24.0",
     "eslint-config-gulp": "^5.0.1",
     "expect": "^1.20.0",
     "mocha": "^10.0.0",
