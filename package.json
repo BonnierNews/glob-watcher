@@ -7,7 +7,7 @@
   "repository": "BonnierNews/glob-watcher",
   "license": "MIT",
   "engines": {
-    "node": ">=14 <=19"
+    "node": ">=16 <=18"
   },
   "main": "index.js",
   "files": [
