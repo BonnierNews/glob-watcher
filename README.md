@@ -1,5 +1,7 @@
 ## BN fork
 
+As of 2023-12-15 this project is no longer used, and the repo has been archived.
+
 ![Build Status](https://github.com/BonnierNews/glob-watcher/actions/workflows/node.js.yml/badge.svg)
 
 This is a fork of Gulp.js [glob-watcher](https://github.com/gulpjs/glob-watcher) repo, which is the repo for [glob-watcher](https://www.npmjs.com/package/glob-watcher) on npm.
